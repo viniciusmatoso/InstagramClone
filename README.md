@@ -1,6 +1,5 @@
 # InstagramClone
 
-<<<<<<< HEAD
 <img src="insta.jpg" width="90%">
 
 ## Sumário
@@ -46,9 +45,4 @@ Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir c
 - 📄 Ajudando a melhorar a documentação.
 - 🚀 Compartilhando este projeto com seus amigos.
 
-Voltar ao [topo](#whatsappclone).
-=======
-Projeto criado para a plataforma Android em conjunto com o Parse Server - Back4app (BaaS)
-
-O projeto é uma simples cópia do app 'Instagram', contendo uma lista de contatos, imagens do feed e upload de fotos.
->>>>>>> d8bb5bf7d466877ff3af93799d408a8a71b33336
+Voltar ao [topo](#instagramclone).
