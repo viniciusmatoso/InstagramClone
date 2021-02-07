@@ -9,6 +9,7 @@
   - [Pré-requisitos](#pré-requisitos)
   - [Imagens do Aplicativo](#imagens-do-aplicativo)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+  - [Licença](#licença)
   - [Como Contribuir](#como-contribuir)
 
 ## Descrição
@@ -34,6 +35,10 @@ Para poder realizar a execução desse aplicativo é necessário que possua a ID
 ![Android](https://www.vectorlogo.zone/logos/android/android-ar21.svg)
 ![Parse](https://www.vectorlogo.zone/logos/parseplatform/parseplatform-ar21.svg)
 ![XML](https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg)
+
+## Licença
+
+[GNU General Public License v3.0](LICENSE)
 
 ## Como Contribuir
 
